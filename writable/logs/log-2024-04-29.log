@@ -1,0 +1,1594 @@
+CRITICAL - 2024-04-29 09:59:42 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:59:43 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:59:44 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:59:44 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:59:44 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:59:44 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:59:44 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:59:45 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 09:59:45 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:00:12 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:00:14 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:00:14 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:00:14 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:00:14 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:00:14 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:00:15 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:00:15 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:00:15 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:00:15 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:00:16 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:02:37 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(58): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:03:23 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:03:24 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:03:24 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:03:24 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:03:24 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:03:24 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:03:24 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:03:25 --> ErrorException: Attempt to read property "adminTemplate" on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "adminTemplate" on array', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:07:26 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:07:39 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:07:43 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:07:44 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:07:44 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:09:00 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:09:01 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:11:38 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:12:07 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:12:34 --> Error: Call to a member function render() on array
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:12:47 --> ErrorException: Undefined array key "adminTemplate"
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "adminTemplate"', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:13:37 --> Error: Call to undefined method App\Controllers\Admin\FinanceController::render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:13:45 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:13:47 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:14:08 --> ErrorException: Undefined variable $adminTemplate
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $adminTemplate', '/Applications/MAMP/htdocs/test-bpdlh/app/Controllers/Admin/FinanceController.php', 13)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:14:47 --> Error: Call to undefined method App\Controllers\Admin\FinanceController::render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:14:49 --> Error: Call to undefined method App\Controllers\Admin\FinanceController::render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:15:53 --> Error: Call to undefined method App\Controllers\Admin\FinanceController::render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:15:55 --> Error: Call to undefined method App\Controllers\Admin\FinanceController::render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:16:02 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:16:03 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:16:44 --> Error: Call to undefined function App\Controllers\Admin\dei()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 13.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:18:04 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:20:10 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:20:32 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:08 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:09 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:10 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:10 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:10 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:10 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:11 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:11 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:11 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:11 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:12 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:12 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:12 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:12 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:12 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:12 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:13 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:13 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:13 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:13 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:14 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:14 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:14 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:21:14 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:25 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:26 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:27 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:27 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:27 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:27 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:28 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:28 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:28 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:28 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:28 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:28 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:29 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:29 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:29 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:29 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:29 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:29 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:30 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:30 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:30 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:30 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:30 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:30 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:31 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:22:42 --> Error: Call to undefined function App\Controllers\Admin\render()
+[Method: GET, Route: /]
+in APPPATH/Controllers/Admin/FinanceController.php on line 14.
+ 1 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 2 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:24:32 --> Twig\Error\LoaderError: Template "AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:25:05 --> Twig\Error\LoaderError: Template "../Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('../Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:25:07 --> Twig\Error\LoaderError: Template "../Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('../Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:25:40 --> Twig\Error\LoaderError: Template "../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:25:41 --> Twig\Error\LoaderError: Template "../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:25:42 --> Twig\Error\LoaderError: Template "../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:25:43 --> Twig\Error\LoaderError: Template "../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:25:43 --> Twig\Error\LoaderError: Template "../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:25:43 --> Twig\Error\LoaderError: Template "../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:25:44 --> Twig\Error\LoaderError: Template "../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:25:44 --> Twig\Error\LoaderError: Template "../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:25:44 --> Twig\Error\LoaderError: Template "../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:25:44 --> Twig\Error\LoaderError: Template "../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:25:44 --> Twig\Error\LoaderError: Template "../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:25:45 --> Twig\Error\LoaderError: Template "../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:26:33 --> Twig\Error\LoaderError: Template "/Applications/MAMP/htdocs/test-bpdlh/public/../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('/Applications/MAMP/htdocs/test-bpdlh/public/../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('/Applications/MAMP/htdocs/test-bpdlh/public/../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('/Applications/MAMP/htdocs/test-bpdlh/public/../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(10): Twig\Environment->render('/Applications/MAMP/htdocs/test-bpdlh/public/../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:28:04 --> TypeError: render(): Return value must be of type string, none returned
+[Method: GET, Route: /]
+in APPPATH/Helpers/admin_template_helper.php on line 12.
+ 1 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:28:19 --> ErrorException: readfile(/Applications/MAMP/htdocs/test-bpdlh/public/../app/Views/AdminLTE/pfage/finance.html): Failed to open stream: No such file or directory
+[Method: GET, Route: /]
+in APPPATH/Helpers/admin_template_helper.php on line 10.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'readfile(/Applications/MAMP/htdocs/test-bpdlh/public/../app/Views/AdminLTE/pfage/finance.html): Failed to open stream: No such file or directory', '/Applications/MAMP/htdocs/test-bpdlh/app/Helpers/admin_template_helper.php', 10)
+ 2 APPPATH/Helpers/admin_template_helper.php(10): readfile('/Applications/MAMP/htdocs/test-bpdlh/public/../app/Views/AdminLTE/pfage/finance.html')
+ 3 APPPATH/Controllers/Admin/FinanceController.php(14): render('finance.html')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:29:26 --> Twig\Error\LoaderError: Template "/../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('/../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('/../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('/../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(11): Twig\Environment->render('/../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(13): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:29:33 --> Twig\Error\LoaderError: Template "../app/Views/AdminLTE/page/finance.html" is not defined.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/ArrayLoader.php on line 63.
+ 1 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\ArrayLoader->getCacheKey('../app/Views/AdminLTE/page/finance.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('../app/Views/AdminLTE/page/finance.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(299): Twig\Environment->load('../app/Views/AdminLTE/page/finance.html')
+ 4 APPPATH/Helpers/admin_template_helper.php(11): Twig\Environment->render('../app/Views/AdminLTE/page/finance.html', [])
+ 5 APPPATH/Controllers/Admin/FinanceController.php(13): render('finance.html')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:33:00 --> Twig\Error\LoaderError: Looks like you try to load a template outside configured directories (../layout/main.html) in "finance.html" at line 1.
+[Method: GET, Route: /]
+in VENDORPATH/twig/twig/src/Loader/FilesystemLoader.php on line 268.
+ 1 VENDORPATH/twig/twig/src/Loader/FilesystemLoader.php(188): Twig\Loader\FilesystemLoader->validateName('../layout/main.html')
+ 2 VENDORPATH/twig/twig/src/Loader/FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('../layout/main.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\FilesystemLoader->getCacheKey('../layout/main.html')
+ 4 VENDORPATH/twig/twig/src/Template.php(279): Twig\Environment->getTemplateClass('../layout/main.html')
+ 5 VENDORPATH/twig/twig/src/Environment.php(384) : eval()'d code(41): Twig\Template->loadTemplate('../layout/main.html', 'finance.html', 1)
+ 6 VENDORPATH/twig/twig/src/Template.php(360): __TwigTemplate_922d3e7e6edf562ed419618dac76d9fb->doDisplay([], [])
+ 7 VENDORPATH/twig/twig/src/Template.php(335): Twig\Template->yield([])
+ 8 VENDORPATH/twig/twig/src/TemplateWrapper.php(38): Twig\Template->render([])
+ 9 VENDORPATH/twig/twig/src/Environment.php(299): Twig\TemplateWrapper->render([])
+10 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('finance.html', [])
+11 APPPATH/Controllers/Admin/FinanceController.php(13): render('finance.html')
+12 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+13 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+14 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+15 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+16 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+17 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:43:36 --> Twig\Error\SyntaxError: The block 'title' has already been defined line 7.
+[Method: GET, Route: /]
+in APPPATH/Views/AdminLTE/layout/main.html on line 984.
+ 1 VENDORPATH/twig/twig/src/Parser.php(173): Twig\TokenParser\BlockTokenParser->parse(Object(Twig\Token))
+ 2 VENDORPATH/twig/twig/src/Parser.php(83): Twig\Parser->subparse(null, false)
+ 3 VENDORPATH/twig/twig/src/Environment.php(516): Twig\Parser->parse(Object(Twig\TokenStream))
+ 4 VENDORPATH/twig/twig/src/Environment.php(544): Twig\Environment->parse(Object(Twig\TokenStream))
+ 5 VENDORPATH/twig/twig/src/Environment.php(374): Twig\Environment->compileSource(Object(Twig\Source))
+ 6 VENDORPATH/twig/twig/src/Template.php(282): Twig\Environment->loadTemplate('__TwigTemplate_3698e3074dcdcce86c51d2245c872f4b', 'layout/main.html', null)
+ 7 VENDORPATH/twig/twig/src/Environment.php(384) : eval()'d code(41): Twig\Template->loadTemplate('layout/main.html', 'page/finance.html', 1)
+ 8 VENDORPATH/twig/twig/src/Template.php(360): __TwigTemplate_922d3e7e6edf562ed419618dac76d9fb->doDisplay([], [])
+ 9 VENDORPATH/twig/twig/src/Template.php(335): Twig\Template->yield([])
+10 VENDORPATH/twig/twig/src/TemplateWrapper.php(38): Twig\Template->render([])
+11 VENDORPATH/twig/twig/src/Environment.php(299): Twig\TemplateWrapper->render([])
+12 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('page/finance.html', [])
+13 APPPATH/Controllers/Admin/FinanceController.php(13): render('finance.html')
+14 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+15 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+16 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+17 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+18 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+19 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:44:13 --> Twig\Error\SyntaxError: Unknown "title" tag.
+[Method: GET, Route: /]
+in APPPATH/Views/AdminLTE/layout/main.html on line 7.
+ 1 VENDORPATH/twig/twig/src/Parser.php(83): Twig\Parser->subparse(null, false)
+ 2 VENDORPATH/twig/twig/src/Environment.php(516): Twig\Parser->parse(Object(Twig\TokenStream))
+ 3 VENDORPATH/twig/twig/src/Environment.php(544): Twig\Environment->parse(Object(Twig\TokenStream))
+ 4 VENDORPATH/twig/twig/src/Environment.php(374): Twig\Environment->compileSource(Object(Twig\Source))
+ 5 VENDORPATH/twig/twig/src/Template.php(282): Twig\Environment->loadTemplate('__TwigTemplate_3698e3074dcdcce86c51d2245c872f4b', 'layout/main.html', null)
+ 6 VENDORPATH/twig/twig/src/Environment.php(384) : eval()'d code(41): Twig\Template->loadTemplate('layout/main.html', 'page/finance.html', 1)
+ 7 VENDORPATH/twig/twig/src/Template.php(360): __TwigTemplate_922d3e7e6edf562ed419618dac76d9fb->doDisplay([], [])
+ 8 VENDORPATH/twig/twig/src/Template.php(335): Twig\Template->yield([])
+ 9 VENDORPATH/twig/twig/src/TemplateWrapper.php(38): Twig\Template->render([])
+10 VENDORPATH/twig/twig/src/Environment.php(299): Twig\TemplateWrapper->render([])
+11 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('page/finance.html', [])
+12 APPPATH/Controllers/Admin/FinanceController.php(13): render('finance.html')
+13 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+14 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+15 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+17 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+18 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:44:47 --> Twig\Error\SyntaxError: Unknown "title" tag.
+[Method: GET, Route: /]
+in APPPATH/Views/AdminLTE/layout/main.html on line 7.
+ 1 VENDORPATH/twig/twig/src/Parser.php(83): Twig\Parser->subparse(null, false)
+ 2 VENDORPATH/twig/twig/src/Environment.php(516): Twig\Parser->parse(Object(Twig\TokenStream))
+ 3 VENDORPATH/twig/twig/src/Environment.php(544): Twig\Environment->parse(Object(Twig\TokenStream))
+ 4 VENDORPATH/twig/twig/src/Environment.php(374): Twig\Environment->compileSource(Object(Twig\Source))
+ 5 VENDORPATH/twig/twig/src/Template.php(282): Twig\Environment->loadTemplate('__TwigTemplate_3698e3074dcdcce86c51d2245c872f4b', 'layout/main.html', null)
+ 6 VENDORPATH/twig/twig/src/Environment.php(384) : eval()'d code(41): Twig\Template->loadTemplate('layout/main.html', 'page/finance.html', 1)
+ 7 VENDORPATH/twig/twig/src/Template.php(360): __TwigTemplate_922d3e7e6edf562ed419618dac76d9fb->doDisplay([], [])
+ 8 VENDORPATH/twig/twig/src/Template.php(335): Twig\Template->yield([])
+ 9 VENDORPATH/twig/twig/src/TemplateWrapper.php(38): Twig\Template->render([])
+10 VENDORPATH/twig/twig/src/Environment.php(299): Twig\TemplateWrapper->render([])
+11 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('page/finance.html', [])
+12 APPPATH/Controllers/Admin/FinanceController.php(13): render('finance.html')
+13 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+14 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+15 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+17 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+18 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:44:49 --> Twig\Error\SyntaxError: Unknown "title" tag.
+[Method: GET, Route: /]
+in APPPATH/Views/AdminLTE/layout/main.html on line 7.
+ 1 VENDORPATH/twig/twig/src/Parser.php(83): Twig\Parser->subparse(null, false)
+ 2 VENDORPATH/twig/twig/src/Environment.php(516): Twig\Parser->parse(Object(Twig\TokenStream))
+ 3 VENDORPATH/twig/twig/src/Environment.php(544): Twig\Environment->parse(Object(Twig\TokenStream))
+ 4 VENDORPATH/twig/twig/src/Environment.php(374): Twig\Environment->compileSource(Object(Twig\Source))
+ 5 VENDORPATH/twig/twig/src/Template.php(282): Twig\Environment->loadTemplate('__TwigTemplate_3698e3074dcdcce86c51d2245c872f4b', 'layout/main.html', null)
+ 6 VENDORPATH/twig/twig/src/Environment.php(384) : eval()'d code(41): Twig\Template->loadTemplate('layout/main.html', 'page/finance.html', 1)
+ 7 VENDORPATH/twig/twig/src/Template.php(360): __TwigTemplate_922d3e7e6edf562ed419618dac76d9fb->doDisplay([], [])
+ 8 VENDORPATH/twig/twig/src/Template.php(335): Twig\Template->yield([])
+ 9 VENDORPATH/twig/twig/src/TemplateWrapper.php(38): Twig\Template->render([])
+10 VENDORPATH/twig/twig/src/Environment.php(299): Twig\TemplateWrapper->render([])
+11 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('page/finance.html', [])
+12 APPPATH/Controllers/Admin/FinanceController.php(13): render('finance.html')
+13 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+14 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+15 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+17 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+18 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:45:07 --> Twig\Error\SyntaxError: Unexpected token "string" of value "Dashboard" ("name" expected).
+[Method: GET, Route: /]
+in APPPATH/Views/AdminLTE/layout/main.html on line 7.
+ 1 VENDORPATH/twig/twig/src/ExpressionParser.php(567): Twig\TokenStream->expect(5)
+ 2 VENDORPATH/twig/twig/src/ExpressionParser.php(561): Twig\ExpressionParser->parseFilterExpressionRaw(Object(Twig\Node\Expression\NameExpression))
+ 3 VENDORPATH/twig/twig/src/ExpressionParser.php(423): Twig\ExpressionParser->parseFilterExpression(Object(Twig\Node\Expression\NameExpression))
+ 4 VENDORPATH/twig/twig/src/ExpressionParser.php(291): Twig\ExpressionParser->parsePostfixExpression(Object(Twig\Node\Expression\NameExpression))
+ 5 VENDORPATH/twig/twig/src/ExpressionParser.php(177): Twig\ExpressionParser->parsePrimaryExpression()
+ 6 VENDORPATH/twig/twig/src/ExpressionParser.php(72): Twig\ExpressionParser->getPrimary()
+ 7 VENDORPATH/twig/twig/src/Parser.php(130): Twig\ExpressionParser->parseExpression()
+ 8 VENDORPATH/twig/twig/src/Parser.php(83): Twig\Parser->subparse(null, false)
+ 9 VENDORPATH/twig/twig/src/Environment.php(516): Twig\Parser->parse(Object(Twig\TokenStream))
+10 VENDORPATH/twig/twig/src/Environment.php(544): Twig\Environment->parse(Object(Twig\TokenStream))
+11 VENDORPATH/twig/twig/src/Environment.php(374): Twig\Environment->compileSource(Object(Twig\Source))
+12 VENDORPATH/twig/twig/src/Template.php(282): Twig\Environment->loadTemplate('__TwigTemplate_3698e3074dcdcce86c51d2245c872f4b', 'layout/main.html', null)
+13 VENDORPATH/twig/twig/src/Environment.php(384) : eval()'d code(41): Twig\Template->loadTemplate('layout/main.html', 'page/finance.html', 1)
+14 VENDORPATH/twig/twig/src/Template.php(360): __TwigTemplate_922d3e7e6edf562ed419618dac76d9fb->doDisplay([], [])
+15 VENDORPATH/twig/twig/src/Template.php(335): Twig\Template->yield([])
+16 VENDORPATH/twig/twig/src/TemplateWrapper.php(38): Twig\Template->render([])
+17 VENDORPATH/twig/twig/src/Environment.php(299): Twig\TemplateWrapper->render([])
+18 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('page/finance.html', [])
+19 APPPATH/Controllers/Admin/FinanceController.php(13): render('finance.html')
+20 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+21 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+22 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+23 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+24 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+25 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:45:08 --> Twig\Error\SyntaxError: Unexpected token "string" of value "Dashboard" ("name" expected).
+[Method: GET, Route: /]
+in APPPATH/Views/AdminLTE/layout/main.html on line 7.
+ 1 VENDORPATH/twig/twig/src/ExpressionParser.php(567): Twig\TokenStream->expect(5)
+ 2 VENDORPATH/twig/twig/src/ExpressionParser.php(561): Twig\ExpressionParser->parseFilterExpressionRaw(Object(Twig\Node\Expression\NameExpression))
+ 3 VENDORPATH/twig/twig/src/ExpressionParser.php(423): Twig\ExpressionParser->parseFilterExpression(Object(Twig\Node\Expression\NameExpression))
+ 4 VENDORPATH/twig/twig/src/ExpressionParser.php(291): Twig\ExpressionParser->parsePostfixExpression(Object(Twig\Node\Expression\NameExpression))
+ 5 VENDORPATH/twig/twig/src/ExpressionParser.php(177): Twig\ExpressionParser->parsePrimaryExpression()
+ 6 VENDORPATH/twig/twig/src/ExpressionParser.php(72): Twig\ExpressionParser->getPrimary()
+ 7 VENDORPATH/twig/twig/src/Parser.php(130): Twig\ExpressionParser->parseExpression()
+ 8 VENDORPATH/twig/twig/src/Parser.php(83): Twig\Parser->subparse(null, false)
+ 9 VENDORPATH/twig/twig/src/Environment.php(516): Twig\Parser->parse(Object(Twig\TokenStream))
+10 VENDORPATH/twig/twig/src/Environment.php(544): Twig\Environment->parse(Object(Twig\TokenStream))
+11 VENDORPATH/twig/twig/src/Environment.php(374): Twig\Environment->compileSource(Object(Twig\Source))
+12 VENDORPATH/twig/twig/src/Template.php(282): Twig\Environment->loadTemplate('__TwigTemplate_3698e3074dcdcce86c51d2245c872f4b', 'layout/main.html', null)
+13 VENDORPATH/twig/twig/src/Environment.php(384) : eval()'d code(41): Twig\Template->loadTemplate('layout/main.html', 'page/finance.html', 1)
+14 VENDORPATH/twig/twig/src/Template.php(360): __TwigTemplate_922d3e7e6edf562ed419618dac76d9fb->doDisplay([], [])
+15 VENDORPATH/twig/twig/src/Template.php(335): Twig\Template->yield([])
+16 VENDORPATH/twig/twig/src/TemplateWrapper.php(38): Twig\Template->render([])
+17 VENDORPATH/twig/twig/src/Environment.php(299): Twig\TemplateWrapper->render([])
+18 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('page/finance.html', [])
+19 APPPATH/Controllers/Admin/FinanceController.php(13): render('finance.html')
+20 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+21 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+22 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+23 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+24 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+25 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 10:45:09 --> Twig\Error\SyntaxError: Unexpected token "string" of value "Dashboard" ("name" expected).
+[Method: GET, Route: /]
+in APPPATH/Views/AdminLTE/layout/main.html on line 7.
+ 1 VENDORPATH/twig/twig/src/ExpressionParser.php(567): Twig\TokenStream->expect(5)
+ 2 VENDORPATH/twig/twig/src/ExpressionParser.php(561): Twig\ExpressionParser->parseFilterExpressionRaw(Object(Twig\Node\Expression\NameExpression))
+ 3 VENDORPATH/twig/twig/src/ExpressionParser.php(423): Twig\ExpressionParser->parseFilterExpression(Object(Twig\Node\Expression\NameExpression))
+ 4 VENDORPATH/twig/twig/src/ExpressionParser.php(291): Twig\ExpressionParser->parsePostfixExpression(Object(Twig\Node\Expression\NameExpression))
+ 5 VENDORPATH/twig/twig/src/ExpressionParser.php(177): Twig\ExpressionParser->parsePrimaryExpression()
+ 6 VENDORPATH/twig/twig/src/ExpressionParser.php(72): Twig\ExpressionParser->getPrimary()
+ 7 VENDORPATH/twig/twig/src/Parser.php(130): Twig\ExpressionParser->parseExpression()
+ 8 VENDORPATH/twig/twig/src/Parser.php(83): Twig\Parser->subparse(null, false)
+ 9 VENDORPATH/twig/twig/src/Environment.php(516): Twig\Parser->parse(Object(Twig\TokenStream))
+10 VENDORPATH/twig/twig/src/Environment.php(544): Twig\Environment->parse(Object(Twig\TokenStream))
+11 VENDORPATH/twig/twig/src/Environment.php(374): Twig\Environment->compileSource(Object(Twig\Source))
+12 VENDORPATH/twig/twig/src/Template.php(282): Twig\Environment->loadTemplate('__TwigTemplate_3698e3074dcdcce86c51d2245c872f4b', 'layout/main.html', null)
+13 VENDORPATH/twig/twig/src/Environment.php(384) : eval()'d code(41): Twig\Template->loadTemplate('layout/main.html', 'page/finance.html', 1)
+14 VENDORPATH/twig/twig/src/Template.php(360): __TwigTemplate_922d3e7e6edf562ed419618dac76d9fb->doDisplay([], [])
+15 VENDORPATH/twig/twig/src/Template.php(335): Twig\Template->yield([])
+16 VENDORPATH/twig/twig/src/TemplateWrapper.php(38): Twig\Template->render([])
+17 VENDORPATH/twig/twig/src/Environment.php(299): Twig\TemplateWrapper->render([])
+18 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('page/finance.html', [])
+19 APPPATH/Controllers/Admin/FinanceController.php(13): render('finance.html')
+20 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+21 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+22 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+23 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+24 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+25 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 11:05:11 --> Twig\Error\LoaderError: Unable to find template "side_menu.html" (looked into: ../app/Views/AdminLTE).
+[Method: GET, Route: /]
+in APPPATH/Views/AdminLTE/layout/main.html on line 279.
+ 1 VENDORPATH/twig/twig/src/Loader/FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('side_menu.html')
+ 2 VENDORPATH/twig/twig/src/Environment.php(283): Twig\Loader\FilesystemLoader->getCacheKey('side_menu.html')
+ 3 VENDORPATH/twig/twig/src/Environment.php(336): Twig\Environment->getTemplateClass('side_menu.html')
+ 4 VENDORPATH/twig/twig/src/Environment.php(459): Twig\Environment->load('side_menu.html')
+ 5 VENDORPATH/twig/twig/src/Extension/CoreExtension.php(1400): Twig\Environment->resolveTemplate('side_menu.html')
+ 6 VENDORPATH/twig/twig/src/Environment.php(384) : eval()'d code(322): Twig\Extension\CoreExtension::include(Object(Twig\Environment), [...], 'side_menu.html')
+ 7 VENDORPATH/twig/twig/src/Template.php(360): __TwigTemplate_3698e3074dcdcce86c51d2245c872f4b->doDisplay([...], [...])
+ 8 VENDORPATH/twig/twig/src/Environment.php(384) : eval()'d code(42): Twig\Template->yield([...], [...])
+ 9 VENDORPATH/twig/twig/src/Template.php(360): __TwigTemplate_922d3e7e6edf562ed419618dac76d9fb->doDisplay([...], [])
+10 VENDORPATH/twig/twig/src/Template.php(335): Twig\Template->yield([...])
+11 VENDORPATH/twig/twig/src/TemplateWrapper.php(38): Twig\Template->render([...])
+12 VENDORPATH/twig/twig/src/Environment.php(299): Twig\TemplateWrapper->render([...])
+13 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('page/finance.html', [...])
+14 APPPATH/Controllers/Admin/FinanceController.php(17): render('finance.html', [...])
+15 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+16 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+17 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+18 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+19 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+20 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 16:45:36 --> Twig\Error\SyntaxError: Unknown "endblock" tag.
+[Method: GET, Route: /]
+in APPPATH/Views/AdminLTE/layout/main.html on line 21.
+ 1 VENDORPATH/twig/twig/src/Parser.php(83): Twig\Parser->subparse(null, false)
+ 2 VENDORPATH/twig/twig/src/Environment.php(516): Twig\Parser->parse(Object(Twig\TokenStream))
+ 3 VENDORPATH/twig/twig/src/Environment.php(544): Twig\Environment->parse(Object(Twig\TokenStream))
+ 4 VENDORPATH/twig/twig/src/Environment.php(374): Twig\Environment->compileSource(Object(Twig\Source))
+ 5 VENDORPATH/twig/twig/src/Template.php(282): Twig\Environment->loadTemplate('__TwigTemplate_3698e3074dcdcce86c51d2245c872f4b', 'layout/main.html', null)
+ 6 VENDORPATH/twig/twig/src/Environment.php(384) : eval()'d code(42): Twig\Template->loadTemplate('layout/main.html', 'page/finance.html', 1)
+ 7 VENDORPATH/twig/twig/src/Template.php(360): __TwigTemplate_922d3e7e6edf562ed419618dac76d9fb->doDisplay([...], [...])
+ 8 VENDORPATH/twig/twig/src/Template.php(335): Twig\Template->yield([...])
+ 9 VENDORPATH/twig/twig/src/TemplateWrapper.php(38): Twig\Template->render([...])
+10 VENDORPATH/twig/twig/src/Environment.php(299): Twig\TemplateWrapper->render([...])
+11 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('page/finance.html', [...])
+12 APPPATH/Controllers/Admin/FinanceController.php(17): render('finance.html', [...])
+13 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+14 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+15 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+17 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+18 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 16:45:55 --> Twig\Error\SyntaxError: Unknown "endblock" tag.
+[Method: GET, Route: /]
+in APPPATH/Views/AdminLTE/layout/main.html on line 152.
+ 1 VENDORPATH/twig/twig/src/Parser.php(83): Twig\Parser->subparse(null, false)
+ 2 VENDORPATH/twig/twig/src/Environment.php(516): Twig\Parser->parse(Object(Twig\TokenStream))
+ 3 VENDORPATH/twig/twig/src/Environment.php(544): Twig\Environment->parse(Object(Twig\TokenStream))
+ 4 VENDORPATH/twig/twig/src/Environment.php(374): Twig\Environment->compileSource(Object(Twig\Source))
+ 5 VENDORPATH/twig/twig/src/Template.php(282): Twig\Environment->loadTemplate('__TwigTemplate_3698e3074dcdcce86c51d2245c872f4b', 'layout/main.html', null)
+ 6 VENDORPATH/twig/twig/src/Environment.php(384) : eval()'d code(42): Twig\Template->loadTemplate('layout/main.html', 'page/finance.html', 1)
+ 7 VENDORPATH/twig/twig/src/Template.php(360): __TwigTemplate_922d3e7e6edf562ed419618dac76d9fb->doDisplay([...], [...])
+ 8 VENDORPATH/twig/twig/src/Template.php(335): Twig\Template->yield([...])
+ 9 VENDORPATH/twig/twig/src/TemplateWrapper.php(38): Twig\Template->render([...])
+10 VENDORPATH/twig/twig/src/Environment.php(299): Twig\TemplateWrapper->render([...])
+11 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('page/finance.html', [...])
+12 APPPATH/Controllers/Admin/FinanceController.php(17): render('finance.html', [...])
+13 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+14 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+15 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+17 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+18 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 16:46:01 --> Twig\Error\SyntaxError: Unknown "endblock" tag.
+[Method: GET, Route: /]
+in APPPATH/Views/AdminLTE/layout/main.html on line 152.
+ 1 VENDORPATH/twig/twig/src/Parser.php(83): Twig\Parser->subparse(null, false)
+ 2 VENDORPATH/twig/twig/src/Environment.php(516): Twig\Parser->parse(Object(Twig\TokenStream))
+ 3 VENDORPATH/twig/twig/src/Environment.php(544): Twig\Environment->parse(Object(Twig\TokenStream))
+ 4 VENDORPATH/twig/twig/src/Environment.php(374): Twig\Environment->compileSource(Object(Twig\Source))
+ 5 VENDORPATH/twig/twig/src/Template.php(282): Twig\Environment->loadTemplate('__TwigTemplate_3698e3074dcdcce86c51d2245c872f4b', 'layout/main.html', null)
+ 6 VENDORPATH/twig/twig/src/Environment.php(384) : eval()'d code(42): Twig\Template->loadTemplate('layout/main.html', 'page/finance.html', 1)
+ 7 VENDORPATH/twig/twig/src/Template.php(360): __TwigTemplate_922d3e7e6edf562ed419618dac76d9fb->doDisplay([...], [...])
+ 8 VENDORPATH/twig/twig/src/Template.php(335): Twig\Template->yield([...])
+ 9 VENDORPATH/twig/twig/src/TemplateWrapper.php(38): Twig\Template->render([...])
+10 VENDORPATH/twig/twig/src/Environment.php(299): Twig\TemplateWrapper->render([...])
+11 APPPATH/Helpers/admin_template_helper.php(8): Twig\Environment->render('page/finance.html', [...])
+12 APPPATH/Controllers/Admin/FinanceController.php(17): render('finance.html', [...])
+13 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Admin\FinanceController->index()
+14 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\FinanceController))
+15 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+16 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+17 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+18 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 16:55:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "AdminLTE/page/finance.php"
+[Method: GET, Route: api/finance]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('AdminLTE/page/finance.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('AdminLTE/page/finance', [], true)
+ 3 APPPATH/Controllers/Api/FinanceApiController.php(11): view('AdminLTE/page/finance')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Api\FinanceApiController->list()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api\FinanceApiController))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 16:58:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "AdminLTE/page/finance.php"
+[Method: GET, Route: api/finance]
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 41.
+ 1 SYSTEMPATH/View/View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('AdminLTE/page/finance.php')
+ 2 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('AdminLTE/page/finance', [], true)
+ 3 APPPATH/Controllers/Api/FinanceApiController.php(11): view('AdminLTE/page/finance')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Api\FinanceApiController->list()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api\FinanceApiController))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 17:05:07 --> ErrorException: Declaration of App\Controllers\Api\FinanceApiController::update() must be compatible with CodeIgniter\RESTful\ResourceController::update($id = null)
+[Method: GET, Route: api/finance]
+in APPPATH/Controllers/Api/FinanceApiController.php on line 22.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-04-29 17:05:07 --> ErrorException: Declaration of App\Controllers\Api\FinanceApiController::update() must be compatible with CodeIgniter\RESTful\ResourceController::update($id = null)
+[Method: GET, Route: api/finance]
+in APPPATH/Controllers/Api/FinanceApiController.php on line 22.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-04-29 17:49:05 --> ErrorException: Array to string conversion
+[Method: GET, Route: api/finance]
+in APPPATH/Models/FinanceModel.php on line 39.
+ 1 APPPATH/Models/FinanceModel.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', '/Applications/MAMP/htdocs/test-bpdlh/app/Models/FinanceModel.php', 39)
+ 2 APPPATH/Controllers/Api/FinanceApiController.php(18): App\Models\FinanceModel->getDatatable()
+ 3 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Api\FinanceApiController->list()
+ 4 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api\FinanceApiController))
+ 5 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 18:04:10 --> TypeError: CodeIgniter\Database\BaseBuilder::limit(): Argument #1 ($value) must be of type ?int, string given, called in /Applications/MAMP/htdocs/test-bpdlh/system/Model.php on line 919
+[Method: GET, Route: api/finance]
+in SYSTEMPATH/Database/BaseBuilder.php on line 1494.
+ 1 SYSTEMPATH/Model.php(919): CodeIgniter\Database\BaseBuilder->limit('10', '10')
+ 2 APPPATH/Models/FinanceModel.php(48): CodeIgniter\Model->__call('limit', [...])
+ 3 APPPATH/Controllers/Api/FinanceApiController.php(18): App\Models\FinanceModel->getDatatable()
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Api\FinanceApiController->list()
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api\FinanceApiController))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 18:55:40 --> CodeIgniter\Database\Exceptions\DataException: There is no data to insert.
+[Method: POST, Route: api/finance]
+in SYSTEMPATH/BaseModel.php on line 1833.
+ 1 SYSTEMPATH/BaseModel.php(1833): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+ 2 SYSTEMPATH/BaseModel.php(806): CodeIgniter\BaseModel->transformDataToArray(null, 'insert')
+ 3 SYSTEMPATH/Model.php(791): CodeIgniter\BaseModel->insert(null, true)
+ 4 APPPATH/Controllers/Api/FinanceApiController.php(28): CodeIgniter\Model->insert(null)
+ 5 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Api\FinanceApiController->create()
+ 6 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api\FinanceApiController))
+ 7 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-04-29 19:13:33 --> BadMethodCallException: Call to undefined method App\Models\FinanceModel::result
+[Method: PUT, Route: api/finance/2]
+in SYSTEMPATH/Model.php on line 921.
+ 1 APPPATH/Controllers/Api/FinanceApiController.php(52): CodeIgniter\Model->__call('result', [])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\Api\FinanceApiController->update('2')
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Api\FinanceApiController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

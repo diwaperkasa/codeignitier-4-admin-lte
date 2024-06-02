@@ -1,0 +1,294 @@
+{% extends "layout/main.html" %}
+
+{% block content %}
+    <div class="card">
+        <div class="card-header">
+            <h5>{{ data.title }} History</h5>
+        </div>
+        <div class="card-body">
+            <div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <button id="addData" type="button" class="btn btn-outline-primary">Tambah</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="table-responsive">
+                <table id="finance-table" class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Berita</th>
+                            <th>Jumlah</th>
+                            <th>Tipe</th>
+                            <th>Tanggal</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block modal %}
+ <!-- Create Modal -->
+<div class="modal fade" id="createDataModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Create New</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form id="createForm" action="javascript:void(0);">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="createBerita">Berita</label>
+                        <input id="createBerita" type="text" class="form-control" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="createJumlah">Jumlah</label>
+                        <input id="createJumlah" type="number" class="form-control" required ></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="createTipe">Tipe</label>
+                        <select id="createTipe" type="text" class="form-control" required>
+                            <option value="debit">Debit</option>
+                            <option value="kredit">Kredit</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button id="createButton" type="submit" class="btn btn-success" data-style="expand-right">Save changes</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<!-- Edit Modal -->
+<div class="modal fade" id="editDataModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Edit Data</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <form id="editForm" action="javascript:void(0);">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label for="editBerita">Berita</label>
+                        <input id="editBerita" type="text" class="form-control" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="editJumlah">Jumlah</label>
+                        <input id="editJumlah" type="number" class="form-control" required ></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="editTipe">Tipe</label>
+                        <select id="editTipe" type="text" class="form-control" required>
+                            <option value="debit">Debit</option>
+                            <option value="kredit">Kredit</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    <button id="editButton" value="" type="submit" class="btn btn-success" data-style="expand-right">Save changes</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block js_script %}
+    <script>
+        const table = $('#finance-table').DataTable({
+            searching: true,
+            responsive: true,
+            serverSide: true,
+            processing: true,
+            rowId: 'id',
+            ajax: {
+                url: `/api/finance`,
+                data: function (d) {
+                    // d.search.value = $('#tableSearch').val();
+                },
+                dataFilter: function (res) {
+                    const json = JSON.parse(res);
+                    return JSON.stringify(json.result);
+                }
+            },
+            columns: [
+                {
+                    data: null,
+                    name: 'finance.berita',
+                    render: function ( data, type, row, meta ) {
+                        return data.berita;
+                    }
+                },
+                {
+                    data: null,
+                    name: 'finance.jumlah',
+                    render: function ( data, type, row, meta ) {
+                        return Intl.NumberFormat('en-ID', { style: 'currency', currency: 'IDR' }).format(data.jumlah);
+                    }
+                },
+                {
+                    data: null,
+                    name: 'finance.tipe',
+                    render: function ( data, type, row, meta ) {
+                        return data.tipe;
+                    }
+                },
+                {
+                    data: null,
+                    name: 'finance.created_at',
+                    render: function ( data, type, row, meta ) {
+                        const date = new Date(data.created_at);
+                        const options = {
+                            weekday: "long",
+                            year: "numeric",
+                            month: "long",
+                            day: "numeric",
+                            hour: "numeric",
+                            minute: "numeric",
+                            hour12: false
+                        };
+
+                        return new Intl.DateTimeFormat("en-US", options).format(date)
+                    }
+                },
+                {
+                    data: null,
+                    name: 'finance.id',
+                    className: 'text-center',
+                    render: function ( data, type, row, meta ) {
+                        let res = ``;
+                        // edit button
+                        res += `<button title="Edit" data-toggle="tooltip" data-style="zoom-in" data-id="${data.id}" class="btn btn-sm btn-outline-info edit">`;
+                        res += `<i class="fas fa-edit"></i>`;
+                        res += `</button>`;
+                        // delete button
+                        res += `<button title="Delete" data-toggle="tooltip" data-style="zoom-in" data-id="${data.id}" class="btn btn-sm btn-outline-danger ml-1 delete">`;
+                        res += `<i class="fas fa-trash"></i>`;
+                        res += `</button>`;
+
+                        return res;
+                    }
+                },
+            ],
+            drawCallback: function( settings ) {
+                
+            },
+            initComplete: function () {
+                $('#finance-table tbody').on('click', 'td .edit', async function () {
+                    const id = $(this).data('id');
+                    const row = table.row( $('tr#' + id) ).data();
+
+                    $('#editBerita').val(row.berita);
+                    $('#editJumlah').val(row.jumlah);
+                    $('#editTipe').val(row.tipe);
+                    $('#editButton').val(id);
+                    $('#editDataModal').modal('show');
+                });
+
+                $('#finance-table tbody').on('click', 'td .delete', async function () {
+                    const id = $(this).data('id');
+
+                    Swal.fire({
+                        text: 'Apakah anda yakin ingin menghapus data ini?',
+                        icon: 'error',
+                        showCancelButton: true,
+                        confirmButtonColor: '#D50000',
+                        cancelButtonColor: '#CED4DA',
+                        confirmButtonText: 'Hapus',
+                        cancelButtonText: 'Batal'
+                    }).then((result) => {
+                        if (result.isConfirmed) {
+                            $.ajax({
+                                url: `/api/finance/${id}`,
+                                method: 'DELETE',
+                                beforeSend: function () {
+                                    $(this).prop('disabled', true);
+                                },
+                                success: function (res) {
+                                    table.draw();
+                                },
+                                complete: function () {
+                                    $(this).prop('disabled', false);
+                                }
+                            });
+                        }
+                    });
+                });
+            }
+        });
+
+        $('#addData').click(function (e) {
+            $('#createBerita, #createJumlah').val(null);
+            $('#createTipe').prop('selectedIndex',0);
+            $('#createDataModal').modal('show');
+        });
+
+        $('#createForm').submit(function (e) {
+            e.preventDefault();
+
+            const body = {
+                berita: $('#createBerita').val(),
+                jumlah: $('#createJumlah').val(),
+                tipe: $('#createTipe').val()
+            };
+
+            $.ajax({
+                url: `/api/finance`,
+                method: 'POST',
+                data: body,
+                beforeSend: function () {
+                    $('#createButton').prop('disabled', true);
+                },
+                success: function (res) {
+                    table.draw();
+                    $('#createDataModal').modal('hide');
+                },
+                complete: function () {
+                    $('#createButton').prop('disabled', false);
+                }
+            });
+        });
+
+        $('#editForm').submit(function (e) {
+            e.preventDefault();
+
+            const id = $('#editButton').val();
+            const body = {
+                berita: $('#editBerita').val(),
+                jumlah: $('#editJumlah').val(),
+                tipe: $('#editTipe').val()
+            };
+
+            $.ajax({
+                url: `/api/finance/${id}`,
+                method: 'POST',
+                data: body,
+                beforeSend: function () {
+                    $('#editButton').prop('disabled', true);
+                },
+                success: function (res) {
+                    table.draw();
+                    $('#editDataModal').modal('hide');
+                },
+                complete: function () {
+                    $('#editButton').prop('disabled', false);
+                }
+            });
+        });
+    </script>
+{% endblock %}
